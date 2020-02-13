@@ -26,4 +26,3 @@ else
 		fi
 	done
 fi
-rm -Rf tmp-domain.txt
